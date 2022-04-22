@@ -4,7 +4,7 @@ meta {
   watch-modified: true;
   version: "1.8";
   icon: "http://uncrate.com/p/2016/02/smart-kart.jpg";
-  min-josm-version: "15289"; /* This style uses groups for settings */
+  min-josm-version: 15289; /* This style uses groups for settings */
 }
 
 /* Notes
