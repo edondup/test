@@ -3,7 +3,7 @@ meta {
   description: "Highlights features that were created/modified by users";
   watch-modified: true;
   version: "1.8";
-  icon: "http://uncrate.com/p/2016/02/smart-kart.jpg";*/
+  icon: "http://uncrate.com/p/2016/02/smart-kart.jpg";
 }
 
 /* Notes
